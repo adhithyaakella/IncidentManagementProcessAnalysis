@@ -12,8 +12,8 @@ The analysis focuses on:
 The visualizations have been created using **Tableau** to provide insights into incident management performance and highlight areas for improvement.
 
 ## 📂 Files
-- **Incident_Management_Process.twbx** – Tableau workbook containing the visualizations and dashboards.
-- **incident_dataframe.csv** – CSV dataset containing the incident management log, with information on categories, urgency, priority, and user details.
+- **Incident_Management_Process.twbx (https://drive.google.com/drive/folders/1qhH8QqMFie04az89k2a6HLgoCf6XFyRe?usp=drive_link)** – Tableau workbook containing the visualizations and dashboards.
+- **incident_dataframe.csv (https://drive.google.com/drive/folders/1qhH8QqMFie04az89k2a6HLgoCf6XFyRe?usp=drive_link)** – CSV dataset containing the incident management log, with information on categories, urgency, priority, and user details.
 - **Incident_Management_Process.docx** – Detailed report explaining the dataset, the analysis performed, and key findings.
 
 ## 📊 Key Insights
